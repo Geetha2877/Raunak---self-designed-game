@@ -1,0 +1,19 @@
+name of my own creation Rocket Leageu
+
+moto to score a goal
+
+playing character -- the players
+
+non-playing character -- other online charector.
+
+story -- same as foot ball but the players are replaced by cars
+
+feedback -- message and music
+
+skill or chance  
+
+rule -- dodge the players and score a goal.
+
+adaptivity -- it gets harder as increase in level
+
+balance -- oponent is as strong as you.
